@@ -7,7 +7,7 @@ const nextConfig = {
         protocol: 'https',
       },
       {
-        hostname: 'http://assets.basehub.com',
+        hostname: 'assets.basehub.com',
         protocol: 'https',
       }
     ],
